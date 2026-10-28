@@ -8,15 +8,13 @@ Most of my projects start from the same two complaints: everyday tools treat Ara
 
 ## Selected work
 
-| Project | What it does | Built with |
-|:--|:--|:--|
-| **[master-studio](https://github.com/AboALhasanx/master-studio)** | Agent-native academic workspace: a whole graduate semester — lectures, quizzes, PDFs, spaced repetition — operated entirely through chat. | Python · Flask · Playwright · Actions |
-| **[mcsquiz](https://github.com/AboALhasanx/mcsquiz)** | Arabic-first, RTL, offline-capable quiz PWA across six courses, with a content portal that ships new question banks to every device without a redeploy. | JavaScript · Supabase · PWA |
-| **[washi](https://github.com/AboALhasanx/washi)** | Local-first manuscript compositor: PDF → structured Markdown → semantic AST → print-quality Arabic vector PDF, never leaving the machine. | TypeScript · Takumi |
-| **[free-router](https://github.com/AboALhasanx/free-router)** | Self-hosted OpenAI-compatible gateway that fans out across free LLM providers with health checks, failover and per-provider cooldown. | Python · FastAPI |
-| **[rtl-direction-extension](https://github.com/AboALhasanx/rtl-direction-extension)** | Developer-grade Manifest V3 inspector for direction and layout breakage in Arabic interfaces. | Chrome/Edge · MV3 |
-| **[x-bookmarks-exporter](https://github.com/AboALhasanx/x-bookmarks-exporter)** · **[x-offline-bookmarks](https://github.com/AboALhasanx/x-offline-bookmarks)** | Archive X posts and threads into a local vault — as a browser extension and as an Expo app that reads them offline. | JavaScript · Expo SDK 57 |
-| **[displayNONE](https://github.com/AboALhasanx/displayNONE)** | Click any element to hide it, restore it byte-for-byte — a fast visual QA tool. | Chrome/Edge · MV3 |
+- **[master-studio](https://github.com/AboALhasanx/master-studio)** — agent-native academic workspace: a full graduate semester of notes, quizzes, PDFs and spaced repetition, run end-to-end through chat. `Python` `Flask` `Playwright`
+- **[mcsquiz](https://github.com/AboALhasanx/mcsquiz)** — Arabic-first, RTL, offline-capable quiz PWA across six courses, with a content portal that ships new question banks without a redeploy. `JavaScript` `Supabase` `PWA`
+- **[washi](https://github.com/AboALhasanx/washi)** — local-first manuscript compositor: PDF → structured Markdown → semantic AST → print-quality Arabic vector PDF, never leaving the machine. `TypeScript` `Takumi`
+- **[free-router](https://github.com/AboALhasanx/free-router)** — self-hosted OpenAI-compatible gateway that fans out across free LLM providers, with health checks, failover and per-provider cooldown. `Python` `FastAPI`
+- **[smartqueuemanagement](https://github.com/AboALhasanx/smartqueuemanagement)** — Flutter client plus a FastAPI service that predicts queue waiting time by linear regression. `Flutter` `FastAPI` `scikit-learn`
+- **[rtl-direction-extension](https://github.com/AboALhasanx/rtl-direction-extension)** — developer-grade Manifest V3 inspector for direction and layout breakage in Arabic interfaces. `Chrome/Edge` `MV3`
+- **[x-offline-bookmarks](https://github.com/AboALhasanx/x-offline-bookmarks)** · **[x-bookmarks-exporter](https://github.com/AboALhasanx/x-bookmarks-exporter)** — archive X posts and threads into a local vault: an Expo app that reads them offline, and the browser extension that fills it. `JavaScript` `Expo SDK 57`
 
 ---
 
