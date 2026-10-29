@@ -15,6 +15,7 @@ Most of my projects start from the same two complaints: everyday tools treat Ara
 - **[smartqueuemanagement](https://github.com/AboALhasanx/smartqueuemanagement)** — Flutter client plus a FastAPI service that predicts queue waiting time by linear regression. `Flutter` `FastAPI` `scikit-learn`
 - **[rtl-direction-extension](https://github.com/AboALhasanx/rtl-direction-extension)** — developer-grade Manifest V3 inspector for direction and layout breakage in Arabic interfaces. `Chrome/Edge` `MV3`
 - **[x-offline-bookmarks](https://github.com/AboALhasanx/x-offline-bookmarks)** · **[x-bookmarks-exporter](https://github.com/AboALhasanx/x-bookmarks-exporter)** — archive X posts and threads into a local vault: an Expo app that reads them offline, and the browser extension that fills it. `JavaScript` `Expo SDK 57`
+- **[tech-radar](https://github.com/AboALhasanx/tech-radar)** — free, keyless trend discovery: public X posts via Google News, cross-checked against Hacker News, GitHub, Reddit and Mastodon, ranked and summarised in Arabic. `Python` `GitHub Actions`
 
 ---
 
@@ -32,7 +33,8 @@ Most of my projects start from the same two complaints: everyday tools treat Ara
 ## Currently
 
 - Running my first Master's semester (six courses, 13 credit hours) end-to-end through master-studio.
-- Extending washi's PDF pipeline and the MCSQuiz content portal.
+- Building **tech-radar** — a six-hourly digest of what actually moved on X and GitHub, written in Arabic.
+- Making **ytm-lite** lighter: a text-first YouTube Music client that cut working-set memory by 55% on a 2015 ThinkPad.
 
 ---
 
